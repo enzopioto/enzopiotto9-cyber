@@ -32,14 +32,12 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </div>
-
-
 </div><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzopiotto9-cyber/enzopiotto9-cyber/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzopiotto9-cyber/enzopiotto9-cyber/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzopiotto9-cyber/enzopiotto9-cyber/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_

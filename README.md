@@ -33,7 +33,7 @@
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </div>
 
-
+---
 </div><br/>
 
 <picture>
@@ -43,3 +43,4 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+---

@@ -1,4 +1,3 @@
-<!-- ===================== CABEÇALHO ANIMADO ===================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Olá,%20eu%20sou%20o%20Pioto!&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20•%20Backend%20•%20Web%20•%20Banco%20de%20Dados&descSize=16&descAlignY=60" alt="Cabeçalho animado" />
@@ -18,14 +17,10 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
-
 - 🌱 Estudando e desenvolvendo projetos com foco em **backend**, **web** e **banco de dados**
 - 🧠 Sempre aprendendo novas tecnologias e boas práticas de código
 - 💬 Aberto para **colaborações** e **troca de ideias** sobre programação
 - 🎯 Objetivo: construir aplicações sólidas, limpas e escaláveis
-
-<br clear="right"/>
 
 ---
 

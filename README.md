@@ -12,8 +12,10 @@
 
 ### 📊 Atividade no GitHub
 
-![enzopiotto9-cyber's Stats](https://github-readme-stats.vercel.app/api?username=enzopiotto9-cyber&theme=dark&show_icons=true&hide_border=false&count_private=false)
-![enzopiotto9-cyber's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enzopiotto9-cyber&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<p align="center">
+  <img height="165" alt="Stats de enzopiotto9-cyber" src="https://github-readme-stats.vercel.app/api?username=enzopiotto9-cyber&theme=dark&show_icons=true" />
+  <img height="165" alt="Top linguagens de enzopiotto9-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzopiotto9-cyber&theme=dark&layout=compact" />
+</p>
 
 ---
 
